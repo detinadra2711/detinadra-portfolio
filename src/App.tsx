@@ -9,7 +9,6 @@ import {
   BarChart3,
   Clock,
   Dumbbell,
-  GraduationCap,
   Globe,
   Linkedin,
   Mail,
